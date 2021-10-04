@@ -1,7 +1,7 @@
 # MCASPP_Deeplabv3+
 the code of the MCASPP in deeplabv3+.  
 
-we train the model with tensorflow2.0 and linux   
+we train the model with tensorflow2.0 and windows   
 
 the model can be trained py train.py and be tested by predict.py.   
 
